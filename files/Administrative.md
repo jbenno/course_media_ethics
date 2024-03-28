@@ -12,7 +12,7 @@
 - You find the assignments on Canvas. For your overview on the weekly structure, you may also see the spreadsheet here: https://docs.google.com/spreadsheets/d/1BB6HHULpT9KCe9JpZZn-oI-JxHNpXhhsdp6A8cw8cMM/edit?usp=sharing
 - Please submitt your assigned work via Canvas unless stated otherwise.
 - The assignments are due at the date that shows in Canvas. Submitting late will reduce the grade of the assignment by one point.
-- The readings and other media assigned in Canvas are mandatory. Unless stated otherwise, pdf files for the readings can be found in this Google Drive folder:https://drive.google.com/drive/folders/1QTE-LNoBto6VDJ6Majes_LZ9A2kqfk7D?usp=sharing
+- The readings and other media assigned in Canvas are mandatory. Unless stated otherwise, pdf files for the readings can be found in this Google Drive folder: https://drive.google.com/drive/folders/1xQenARalQSsy0JzQP-68V1wXmVrIHbpV?usp=sharing
 - Generally you will have a full week to complete an assignment. You are expected to start the assignment in time. Sending in questions for clarification on the day before the assignment will generally not be sufficient. 
 
 ## 3. Attendance
