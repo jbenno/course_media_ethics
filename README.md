@@ -1,3 +1,5 @@
+<sup>[back to Teaching Home](https://github.com/jbenno/teaching)<sup>
+
 # Media Law and Ethics
 *Work in progress*
 **Instructor: Joerg Blumtritt**
